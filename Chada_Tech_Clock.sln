@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chada_Tech_Clock", "Chada_Tech_Clock\Chada_Tech_Clock.vcxproj", "{725CD0F1-DB20-4F8A-BF04-1BDD932FF44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725CD0F1-DB20-4F8A-BF04-1BDD932FF44D}.Debug|x64.ActiveCfg = Debug|x64
+		{725CD0F1-DB20-4F8A-BF04-1BDD932FF44D}.Debug|x64.Build.0 = Debug|x64
+		{725CD0F1-DB20-4F8A-BF04-1BDD932FF44D}.Debug|x86.ActiveCfg = Debug|Win32
+		{725CD0F1-DB20-4F8A-BF04-1BDD932FF44D}.Debug|x86.Build.0 = Debug|Win32
+		{725CD0F1-DB20-4F8A-BF04-1BDD932FF44D}.Release|x64.ActiveCfg = Release|x64
+		{725CD0F1-DB20-4F8A-BF04-1BDD932FF44D}.Release|x64.Build.0 = Release|x64
+		{725CD0F1-DB20-4F8A-BF04-1BDD932FF44D}.Release|x86.ActiveCfg = Release|Win32
+		{725CD0F1-DB20-4F8A-BF04-1BDD932FF44D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2765F4C6-5EA5-458E-910F-28B8BA16237D}
+	EndGlobalSection
+EndGlobal
